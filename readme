@@ -1,0 +1,7 @@
+## Instalação
+Para instalar o typescript no node tem que instalar com DEV:
+- @types/express
+- ts-node
+- ts-node-dev
+Dependencia normal :
+- typescript
